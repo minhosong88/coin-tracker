@@ -43,7 +43,8 @@ To run this app locally, follow these steps:
 1. The app will automatically fetch the latest prices for selected cryptocurrencies upon loading.
 2. While the data is being fetched, a loading indicator will be displayed.
 3. Once the data is loaded, a dropdown menu will appear listing the selected cryptocurrencies with their current prices in USD.
-
+4. **Adaptability**: You can easily add more cryptocurrencies by simply adding their acronyms to the `coinSymbols` list in the code. This flexibility allows the app to quickly adapt to track new coins as needed.
+5. 
 ## Technologies Used
 
 - **React**: JavaScript library for building user interfaces.
